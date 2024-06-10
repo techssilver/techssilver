@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techssilver
 - 👀 I’m interested in  Cyber Security
-- 🌱 I’m currently learning we application security and Quantum computing majoring in Quantum Cryptography
+- 🌱 I’m currently learning web application security and Quantum computing majoring in Quantum Cryptography
 - 💞️ I’m looking to collaborate on matters related cyber security
   
 
